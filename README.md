@@ -1,7 +1,7 @@
 # Actividad Integradora #1
 ##### Este repositorio contiene un raspador web que monitorea los casos acumulados de coronavirus publicados en la página [Worldometers](https://www.worldometers.info/coronavirus/), además de realizar una regresión lineal para modelar este fenómeno.
 
-![](COVID_19.PNG)
+![](COVID_19.png)
 
 Utilizando las librerias BeatifulSoup y requests de Python, el programa realiza un scrapping de la gráfica de infecciones, así como de las tablas de casos reportados de coronavirus.  La información de las tablas es divida respecto a las variables de fecha y número de casos reportados, los datos se grafican con respecto a esas variables junto con el modelo de regresión lineal que se realizó.
 
