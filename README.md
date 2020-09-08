@@ -14,4 +14,4 @@ Para detalles del código, podrá refererirse a los integrantes de este equipo d
 
 En caso de estar interesado en una introducción al mundo del web scrapping y algunas de sus bibliotecas, adjuntamos el siguiente tutorial:
 
-Una herramienta recomendada para el manejo de este código, es anaconda: 
+Para aprovechar al máximo este repositorio y poder editarlo al momento de descargarlo se recomienda el uso de Jupyter Notebook mediante Anaconda: 
