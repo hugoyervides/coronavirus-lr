@@ -13,3 +13,5 @@ Consideramos que el programa y el formato en el que se presenta podrían ser út
 Para detalles del código, podrá refererirse a los integrantes de este equipo de trabajo: 
 
 En caso de estar interesado en una introducción al mundo del web scrapping y algunas de sus bibliotecas, adjuntamos el siguiente tutorial:
+
+Una herramienta recomendada para el manejo de este código, es anaconda: 
