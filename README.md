@@ -10,7 +10,7 @@ El código plasmado en el Jupyter Notebook, es útil no solo para mostrar de for
 Consideramos que el programa y el formato en el que se presenta podrían ser útiles para estudiantes que busquen una referencia al inicializar sus primera prácticas en el mundo de la ciencia de datos, especialmente debido al hecho de que se utilizan en conjunto bibliotecas de uso frecuente dentro de este campo. 
 
 ##### Representación y fuente de datos
-Todos datos utilizados se utilizan de la página [https://www.worldometers.info/coronavirus](worldometer Coronavirus Cases) con la herramienta de webscraping [https://www.crummy.com/software/BeautifulSoup/bs4/doc](Beautiful Soup).
+Todos datos utilizados se utilizan de la página [worldometer Coronavirus Cases](https://www.worldometers.info/coronavirus) con la herramienta de webscraping [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc).
 
 ##### Dependencias
 1. Beautiful soup `conda install beautifulsoup4`
@@ -37,8 +37,8 @@ Para detalles del código, podrá refererirse a los integrantes de este equipo d
 - Oscar Lerma A01380817
 
 En caso de estar interesado en una introducción al mundo del web scrapping y algunas de sus bibliotecas, adjuntamos el siguiente tutorial:
-- (https://realpython.com/beautiful-soup-web-scraper-python/)[Beautiful Soup Web Scraper Tutorial]
+- [Beautiful Soup Web Scraper Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 Para aprovechar al máximo este repositorio y poder editarlo al momento de descargarlo se recomienda el uso de Jupyter Notebook mediante Anaconda: 
-1. Instalar [https://www.anaconda.com/products/individual](Anaconda)
+1. Instalar [Anaconda](https://www.anaconda.com/products/individual)
 2. Abrir Jupyter Notebook
