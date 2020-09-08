@@ -10,7 +10,7 @@ El código plasmado en el Jupyter Notebook, es útil no solo para mostrar de for
 Consideramos que el programa y el formato en el que se presenta podrían ser útiles para estudiantes que busquen una referencia al inicializar sus primera prácticas en el mundo de la ciencia de datos, especialmente debido al hecho de que se utilizan en conjunto bibliotecas de uso frecuente dentro de este campo. 
 
 ##### Representación y fuente de datos
-Todos datos utilizados se utilizan de la página [worldometer Coronavirus Cases](https://www.worldometers.info/coronavirus) con la herramienta de webscraping [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc).
+Todos datos utilizados se utilizan de la página [https://www.worldometers.info/coronavirus](worldometer Coronavirus Cases) con la herramienta de webscraping [https://www.crummy.com/software/BeautifulSoup/bs4/doc](Beautiful Soup).
 
 ##### Dependencias
 1. Beautiful soup `conda install beautifulsoup4`
@@ -20,19 +20,25 @@ Todos datos utilizados se utilizan de la página [worldometer Coronavirus Cases]
 5. Datetime
 
 ##### Algoritmo
-Utilizando 
+Utilizando la librería de regresión lineal de sklearn, junto con los datos obtenidos de la fuente:
+
+Data [Arreglo <int>] => (Numero de casos acumulados por día) [265, 472, 698, 785, ...]
+
+Categories [Arreglo <String>] => (Día registrado) ['Jan 23', 'Jan 24', 'Jan 25', 'Jan 26', ...]
+
+Se busca determinar el numero de casos acumulados en dias futuros.
 
 
 Para detalles del código, podrá refererirse a los integrantes de este equipo de trabajo: 
 - Integrante 1
 - Integrante 2
 - Integrante 3
-- Felipe de Jesús Villaseñor A01382445
+- Integrante 4
 - Oscar Lerma A01380817
 
 En caso de estar interesado en una introducción al mundo del web scrapping y algunas de sus bibliotecas, adjuntamos el siguiente tutorial:
-- [Beautiful Soup Web Scraper Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)
+- (https://realpython.com/beautiful-soup-web-scraper-python/)[Beautiful Soup Web Scraper Tutorial]
 
 Para aprovechar al máximo este repositorio y poder editarlo al momento de descargarlo se recomienda el uso de Jupyter Notebook mediante Anaconda: 
-1. Instalar [Anaconda](https://www.anaconda.com/products/individual)
+1. Instalar [https://www.anaconda.com/products/individual](Anaconda)
 2. Abrir Jupyter Notebook
