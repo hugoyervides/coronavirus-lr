@@ -1,5 +1,5 @@
 # Actividad Integradora #1
-##### Este repositorio contiene un raspador web que monitorea los casos por día de coronavirus publicados en la página [Worldometers](https://www.worldometers.info/coronavirus/), además de realizar una regresión lineal para modelar este fenómeno.
+##### Este repositorio contiene un raspador web que monitorea los casos acumulados de coronavirus publicados en la página [Worldometers](https://www.worldometers.info/coronavirus/), además de realizar una regresión lineal para modelar este fenómeno.
 
 ![](regression.PNG)
 
