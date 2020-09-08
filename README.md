@@ -27,7 +27,7 @@ Para detalles del código, podrá refererirse a los integrantes de este equipo d
 - Integrante 1
 - Integrante 2
 - Integrante 3
-- Integrante 4
+- Felipe de Jesús Villaseñor A01382445
 - Oscar Lerma A01380817
 
 En caso de estar interesado en una introducción al mundo del web scrapping y algunas de sus bibliotecas, adjuntamos el siguiente tutorial:
