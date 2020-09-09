@@ -33,7 +33,7 @@ Para detalles del código, podrá refererirse a los integrantes de este equipo d
 - Integrante 1
 - Integrante 2
 - Integrante 3
-- Integrante 4
+- Gustavo De Los Ríos Alatorre A01410922
 - Oscar Lerma A01380817
 
 En caso de estar interesado en una introducción al mundo del web scrapping y algunas de sus bibliotecas, adjuntamos el siguiente tutorial:
