@@ -31,7 +31,7 @@ Se busca determinar el numero de casos acumulados en dias futuros.
 
 Para detalles del código, podrá refererirse a los integrantes de este equipo de trabajo: 
 - Victor Hugo Oyervides Covarrubias A01382836
-- Integrante 2
+- Astrid Thalía Arteaga Romero A01420220
 - Felipe de Jesús Villaseñor A01382445
 - Gustavo De Los Ríos Alatorre A01410922
 - Oscar Lerma A01380817
